@@ -1,0 +1,12 @@
+{
+  "id": "glo",
+  "name": "GitKraken Glo",
+  "version": "1.0.0",
+  "description": "Glo",
+  "main": "index.js",
+  "author": "James Quigley <jamesq@axosoft.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://app.gitkraken.com/glo/"
+  }
+}
